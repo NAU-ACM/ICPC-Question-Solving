@@ -1,4 +1,4 @@
-## [BedirT](github.com/bedirT) 
+## [BedirT](https://github.com/BedirT) 
 ---
 Solutions for the homeworks
 
