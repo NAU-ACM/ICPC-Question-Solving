@@ -1,10 +1,10 @@
-## [BedirT](https://github.com/BedirT) 
+## [nadide](https://github.com/nadide) 
 ---
 Solutions for the homeworks
 
 ### Chapter 2 - _Data Structures and Libraries_
 
-- [x] UVa 10038 - Jolly Jumpers
+- [ ] UVa 10038 - Jolly Jumpers
 - [ ] UVa 11581 - Grid Successors 
 - [ ] UVa 10258 - Contest Scoreboard 
 - [ ] UVa 11933 - Splitting Numbers 
