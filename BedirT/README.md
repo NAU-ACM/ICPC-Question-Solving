@@ -7,7 +7,7 @@ Solutions for the homeworks
 - [x] [UVa 10038 - Jolly Jumpers](Chapter%202/UVa%20-%2010038.cpp)
 - [ ] UVa 11581 - Grid Successors 
 - [x] [UVa 10258 - Contest Scoreboard](Chapter%202/UVa%20-%2010258.cpp)
-- [ ] UVa 11933 - Splitting Numbers 
+- [x] [UVa 11933 - Splitting Numbers](Chapter%202/Uva%20-%2011933.cpp) 
 - [ ] UVa 11988 - Broken Keyboard
 - [ ] UVa 01062 - Containers
 - [ ] UVa 11286 - Conformity 
