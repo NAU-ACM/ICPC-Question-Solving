@@ -4,9 +4,9 @@ Solutions for the homeworks
 
 ### Chapter 2 - _Data Structures and Libraries_
 
-- [x] UVa 10038 - Jolly Jumpers
+- [x] [UVa 10038 - Jolly Jumpers](Chapter%202/UVa%20-%2010038.cpp)
 - [ ] UVa 11581 - Grid Successors 
-- [ ] UVa 10258 - Contest Scoreboard 
+- [x] [UVa 10258 - Contest Scoreboard](Chapter%202/UVa%20-%2010258.cpp)
 - [ ] UVa 11933 - Splitting Numbers 
 - [ ] UVa 11988 - Broken Keyboard
 - [ ] UVa 01062 - Containers
