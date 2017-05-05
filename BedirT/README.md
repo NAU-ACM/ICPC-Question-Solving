@@ -11,7 +11,7 @@ Solutions for the homeworks
 - [x] [UVa 11988 - Broken Keyboard](Chapter%202/UVa%20-%2011988.cpp)
 - [ ] UVa 01062 - Containers
 - [x] [UVa 11286 - Conformity](Chapter%202/UVa%20-%2011286.cpp) 
-- [ ] UVa 00978 - Lemmings Battle
+- [x] [UVa 00978 - Lemmings Battle](Chapter%202/UVa%20-%2000978.cpp)
 - [ ] UVa 10954 - Add All
 - [ ] UVa 00599 - The Forrest for the Trees
 - [ ] UVa 00793 - Network Connections
