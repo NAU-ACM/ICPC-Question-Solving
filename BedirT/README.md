@@ -7,10 +7,10 @@ Solutions for the homeworks
 - [x] [UVa 10038 - Jolly Jumpers](Chapter%202/UVa%20-%2010038.cpp)
 - [ ] UVa 11581 - Grid Successors 
 - [x] [UVa 10258 - Contest Scoreboard](Chapter%202/UVa%20-%2010258.cpp)
-- [x] [UVa 11933 - Splitting Numbers](Chapter%202/Uva%20-%2011933.cpp) 
-- [x] [UVa 11988 - Broken Keyboard](Chapter%202/Uva%20-%2011988.cpp)
+- [x] [UVa 11933 - Splitting Numbers](Chapter%202/UVa%20-%2011933.cpp) 
+- [x] [UVa 11988 - Broken Keyboard](Chapter%202/UVa%20-%2011988.cpp)
 - [ ] UVa 01062 - Containers
-- [ ] UVa 11286 - Conformity 
+- [x] [UVa 11286 - Conformity](Chapter%202/UVa%20-%2011286.cpp) 
 - [ ] UVa 00978 - Lemmings Battle
 - [ ] UVa 10954 - Add All
 - [ ] UVa 00599 - The Forrest for the Trees
