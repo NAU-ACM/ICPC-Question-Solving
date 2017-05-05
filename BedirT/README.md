@@ -12,7 +12,7 @@ Solutions for the homeworks
 - [ ] UVa 01062 - Containers
 - [x] [UVa 11286 - Conformity](Chapter%202/UVa%20-%2011286.cpp) 
 - [x] [UVa 00978 - Lemmings Battle](Chapter%202/UVa%20-%2000978.cpp)
-- [ ] UVa 10954 - Add All
+- [x] [UVa 10954 - Add All](Chapter%202/UVa%20-%2010954.cpp)
 - [ ] UVa 00599 - The Forrest for the Trees
 - [ ] UVa 00793 - Network Connections
 - [ ] UVa 12532 - Interval Product
