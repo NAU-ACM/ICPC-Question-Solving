@@ -8,7 +8,7 @@ Solutions for the homeworks
 - [ ] UVa 11581 - Grid Successors 
 - [x] [UVa 10258 - Contest Scoreboard](Chapter%202/UVa%20-%2010258.cpp)
 - [x] [UVa 11933 - Splitting Numbers](Chapter%202/Uva%20-%2011933.cpp) 
-- [ ] UVa 11988 - Broken Keyboard
+- [x] [UVa 11988 - Broken Keyboard](Chapter%202/Uva%20-%2011988.cpp)
 - [ ] UVa 01062 - Containers
 - [ ] UVa 11286 - Conformity 
 - [ ] UVa 00978 - Lemmings Battle
