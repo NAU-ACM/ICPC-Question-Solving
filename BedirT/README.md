@@ -19,8 +19,8 @@ Solutions for the homeworks
 
 ### Chapter 3 - _Problem Solving Paradigms_
 
-- [ ] Va 01237 - Expert Enough
-- [ ] UUVa 10487 - Closest Sums  
+- [x] [UVa 01237 - Expert Enough](Chapter%203/UVa%20-%2001237.cpp)
+- [ ] UVa 10487 - Closest Sums  
 - [ ] UVa 00441 - Lotto 
 - [ ] UVa 10660 - Citizen attention 
 - [ ] UVa 01047 - Zones 
