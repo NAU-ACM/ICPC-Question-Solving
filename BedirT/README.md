@@ -13,8 +13,8 @@ Solutions for the homeworks
 - [x] [UVa 11286 - Conformity](Chapter%202/UVa%20-%2011286.cpp) 
 - [x] [UVa 00978 - Lemmings Battle](Chapter%202/UVa%20-%2000978.cpp)
 - [x] [UVa 10954 - Add All](Chapter%202/UVa%20-%2010954.cpp)
-- [ ] UVa 00599 - The Forrest for the Trees
-- [ ] UVa 00793 - Network Connections
+- [x] [UVa 00599 - The Forrest for the Trees](Chapter%202/UVa%20-%2000599.cpp)
+- [x] [UVa 00793 - Network Connections](Chapter%202/UVa%20-%2000793.cpp)
 - [ ] UVa 12532 - Interval Product
 
 ### Chapter 3 - _Problem Solving Paradigms_
