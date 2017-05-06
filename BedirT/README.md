@@ -15,7 +15,7 @@ Solutions for the homeworks
 - [x] [UVa 10954 - Add All](Chapter%202/UVa%20-%2010954.cpp)
 - [x] [UVa 00599 - The Forrest for the Trees](Chapter%202/UVa%20-%2000599.cpp)
 - [x] [UVa 00793 - Network Connections](Chapter%202/UVa%20-%2000793.cpp)
-- [ ] UVa 12532 - Interval Product
+- [x] [UVa 12532 - Interval Product](Chapter%202/UVa%20-%2012532.cpp)
 
 ### Chapter 3 - _Problem Solving Paradigms_
 
