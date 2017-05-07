@@ -21,11 +21,12 @@ Here we have the sources that helped us solving the question specified.
 
 ### Chapter 3 - _Problem Solving Paradigms_
 
-- Va 01237 - Expert Enough
-- UUVa 10487 - Closest Sums  
+- UVa 01237 - Expert Enough
+- UVa 10487 - Closest Sums  
 - UVa 00441 - Lotto 
 - UVa 10660 - Citizen attention 
-- UVa 01047 - Zones 
+- UVa 01047 - Zones
+  - [DP by Bitmask](http://www.geeksforgeeks.org/bitmasking-and-dynamic-programming-set-1-count-ways-to-assign-unique-cap-to-every-person/)
 - UVa 12455 - Bars
 - UVa 11085 - Back to the 8-Queens 
 - UVa 00524 - Prime Ring Problem
