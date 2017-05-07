@@ -24,8 +24,8 @@ Solutions for the homeworks
 - [x] [UVa 00441 - Lotto](Chapter%203/UVa%20-%2000441.cpp)
 - [ ] UVa 10660 - Citizen attention 
 - [ ] UVa 01047 - Zones 
-- [ ] UVa 12455 - Bars
-- [ ] UVa 11085 - Back to the 8-Queens 
+- [x] [UVa 12455 - Bars](Chapter%203/UVa%20-%2012455.cpp)
+- [ ] UVa 11085 - Back to the 8-Queens
 - [ ] UVa 00524 - Prime Ring Problem
 - [ ] UVa 01262 - Password 
 - [ ] UVa 12192 - Grapevine 
