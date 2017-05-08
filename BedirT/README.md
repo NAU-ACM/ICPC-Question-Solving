@@ -13,19 +13,19 @@ Solutions for the homeworks
 - [x] [UVa 11286 - Conformity](Chapter%202/UVa%20-%2011286.cpp) 
 - [x] [UVa 00978 - Lemmings Battle](Chapter%202/UVa%20-%2000978.cpp)
 - [x] [UVa 10954 - Add All](Chapter%202/UVa%20-%2010954.cpp)
-- [ ] UVa 00599 - The Forrest for the Trees
-- [ ] UVa 00793 - Network Connections
-- [ ] UVa 12532 - Interval Product
+- [x] [UVa 00599 - The Forrest for the Trees](Chapter%202/UVa%20-%2000599.cpp)
+- [x] [UVa 00793 - Network Connections](Chapter%202/UVa%20-%2000793.cpp)
+- [x] [UVa 12532 - Interval Product](Chapter%202/UVa%20-%2012532.cpp)
 
 ### Chapter 3 - _Problem Solving Paradigms_
 
-- [ ] Va 01237 - Expert Enough
-- [ ] UUVa 10487 - Closest Sums  
-- [ ] UVa 00441 - Lotto 
+- [x] [UVa 01237 - Expert Enough](Chapter%203/UVa%20-%2001237.cpp)
+- [x] [UVa 10487 - Closest Sums](Chapter%203/UVa%20-%2010487.cpp)
+- [x] [UVa 00441 - Lotto](Chapter%203/UVa%20-%2000441.cpp)
 - [ ] UVa 10660 - Citizen attention 
 - [ ] UVa 01047 - Zones 
-- [ ] UVa 12455 - Bars
-- [ ] UVa 11085 - Back to the 8-Queens 
+- [x] [UVa 12455 - Bars](Chapter%203/UVa%20-%2012455.cpp)
+- [ ] UVa 11085 - Back to the 8-Queens
 - [ ] UVa 00524 - Prime Ring Problem
 - [ ] UVa 01262 - Password 
 - [ ] UVa 12192 - Grapevine 
