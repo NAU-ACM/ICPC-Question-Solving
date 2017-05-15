@@ -27,7 +27,7 @@ Solutions for the homeworks
 - [x] [UVa 12455 - Bars](Chapter%203/UVa%20-%2012455.cpp)
 - [ ] UVa 11085 - Back to the 8-Queens
 - [ ] UVa 00524 - Prime Ring Problem
-- [ ] UVa 01262 - Password 
+- [x] [UVa 01262 - Password](Chapter%203/UVa%20-%2001262.cpp)
 - [ ] UVa 12192 - Grapevine 
 - [ ] UVa 12032 - The Monkey  
 - [ ] UVa 00183 - Bit Maps  
