@@ -26,9 +26,9 @@ Solutions for the homeworks. __(** - Looks correct but not passed)__
 - [ ] UVa 01047 - Zones 
 - [x] [UVa 12455 - Bars](Chapter%203/UVa%20-%2012455.cpp)
 - [x] [UVa 11085 - Back to the 8-Queens](Chapter%203/UVa%20-%2011085.cpp)
-- [ ] UVa 00524 - Prime Ring Problem
+- [x] [UVa 00524 - Prime Ring Problem](Chapter%203/UVa%20-%2000524.cpp)
 - [x] [UVa 01262 - Password](Chapter%203/UVa%20-%2001262.cpp)
-- [ ] UVa 12192 - Grapevine 
+- [x] [UVa 12192 - Grapevine](Chapter%203/UVa%20-%2012192.cpp)
 - [ ] UVa 12032 - The Monkey  
 - [ ] UVa 00183 - Bit Maps  
 - [x] [UVa 11389 - The Bus Driver Problem](Chapter%203/UVa%20-%2011389.cpp)
