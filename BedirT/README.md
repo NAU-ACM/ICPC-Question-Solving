@@ -1,6 +1,6 @@
 ## [BedirT](https://github.com/BedirT) 
 ---
-Solutions for the homeworks
+Solutions for the homeworks. __(** - Looks correct but not passed)__
 
 ### Chapter 2 - _Data Structures and Libraries_
 
@@ -22,7 +22,7 @@ Solutions for the homeworks
 - [x] [UVa 01237 - Expert Enough](Chapter%203/UVa%20-%2001237.cpp)
 - [x] [UVa 10487 - Closest Sums](Chapter%203/UVa%20-%2010487.cpp)
 - [x] [UVa 00441 - Lotto](Chapter%203/UVa%20-%2000441.cpp)
-- [ ] UVa 10660 - Citizen attention 
+- [x] [UVa 10660 - Citizen attention](Chapter%203/UVa%20-%2010660.cpp)**
 - [ ] UVa 01047 - Zones 
 - [x] [UVa 12455 - Bars](Chapter%203/UVa%20-%2012455.cpp)
 - [ ] UVa 11085 - Back to the 8-Queens
