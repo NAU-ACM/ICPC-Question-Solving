@@ -25,7 +25,7 @@ Solutions for the homeworks. __(** - Looks correct but not passed)__
 - [x] [UVa 10660 - Citizen attention](Chapter%203/UVa%20-%2010660.cpp)**
 - [ ] UVa 01047 - Zones 
 - [x] [UVa 12455 - Bars](Chapter%203/UVa%20-%2012455.cpp)
-- [ ] UVa 11085 - Back to the 8-Queens
+- [x] [UVa 11085 - Back to the 8-Queens](Chapter%203/UVa%20-%2011085.cpp)
 - [ ] UVa 00524 - Prime Ring Problem
 - [x] [UVa 01262 - Password](Chapter%203/UVa%20-%2001262.cpp)
 - [ ] UVa 12192 - Grapevine 
