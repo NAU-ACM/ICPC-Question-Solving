@@ -6,9 +6,9 @@ Solutions for the homeworks
 
 - [x] UVa 10038 - Jolly Jumpers
 - [ ] UVa 11581 - Grid Successors 
-- [ ] UVa 10258 - Contest Scoreboard 
-- [ ] UVa 11933 - Splitting Numbers 
-- [ ] UVa 11988 - Broken Keyboard
+- [x] UVa 10258 - Contest Scoreboard 
+- [ ] UVa 11933 - Sxplitting Numbers 
+- [x] UVa 11988 - Broken Keyboard
 - [ ] UVa 01062 - Containers
 - [ ] UVa 11286 - Conformity 
 - [ ] UVa 00978 - Lemmings Battle
