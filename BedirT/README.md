@@ -29,7 +29,7 @@ Solutions for the homeworks. __(** - Looks correct but not passed)__
 - [x] [UVa 00524 - Prime Ring Problem](Chapter%203/UVa%20-%2000524.cpp)
 - [x] [UVa 01262 - Password](Chapter%203/UVa%20-%2001262.cpp)
 - [x] [UVa 12192 - Grapevine](Chapter%203/UVa%20-%2012192.cpp)
-- [ ] UVa 12032 - The Monkey  
+- [x] [UVa 12032 - The Monkey](Chapter%203/UVa%20-%2012032.cpp)
 - [ ] UVa 00183 - Bit Maps  
 - [x] [UVa 11389 - The Bus Driver Problem](Chapter%203/UVa%20-%2011389.cpp)
 - [ ] UVa 12210 - A Match Making Problem  					
