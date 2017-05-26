@@ -1,11 +1,11 @@
 ## [nadide](https://github.com/nadide) 
----
+
 Solutions for the homeworks
 
 ### Chapter 2 - _Data Structures and Libraries_
 
-- [ ] UVa 10038 - Jolly Jumpers
-- [ ] UVa 11581 - Grid Successors 
+- [x] [UVa 10038 - Jolly Jumpers](Chapter2/UVa-10038.cpp)
+- [x] [UVa 11581 - Grid Successors] (Chapter2/UVa-11581.cpp)
 - [ ] UVa 10258 - Contest Scoreboard 
 - [ ] UVa 11933 - Splitting Numbers 
 - [ ] UVa 11988 - Broken Keyboard
