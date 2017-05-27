@@ -33,7 +33,7 @@ Solutions for the homeworks. __(*** - Looks correct but not passed)__
 - [x] [UVa 00183 - Bit Maps](Chapter%203/UVa%20-%2000183.cpp)***
 - [x] [UVa 11389 - The Bus Driver Problem](Chapter%203/UVa%20-%2011389.cpp)
 - [x] [UVa 12210 - A Match Making Problem](Chapter%203/UVa%20-%2012210.cpp)
-- [ ] UVa 11157 - Dynamic Frog
+- [x] [UVa 11157 - Dynamic Frog](Chapter%203/UVa%20-%2011157.cpp)
 - [ ] UVa 10755 - Garbage Heap  
 - [ ] UVa 11951 - Area  	
 - [ ] UVa 00481 - What Goes Up? 
