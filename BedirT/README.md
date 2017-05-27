@@ -1,6 +1,6 @@
 ## [BedirT](https://github.com/BedirT) 
 ---
-Solutions for the homeworks. __(** - Looks correct but not passed)__
+Solutions for the homeworks. __(*** - Looks correct but not passed)__
 
 ### Chapter 2 - _Data Structures and Libraries_
 
@@ -22,7 +22,7 @@ Solutions for the homeworks. __(** - Looks correct but not passed)__
 - [x] [UVa 01237 - Expert Enough](Chapter%203/UVa%20-%2001237.cpp)
 - [x] [UVa 10487 - Closest Sums](Chapter%203/UVa%20-%2010487.cpp)
 - [x] [UVa 00441 - Lotto](Chapter%203/UVa%20-%2000441.cpp)
-- [x] [UVa 10660 - Citizen attention](Chapter%203/UVa%20-%2010660.cpp)**
+- [x] [UVa 10660 - Citizen attention](Chapter%203/UVa%20-%2010660.cpp)***
 - [ ] UVa 01047 - Zones 
 - [x] [UVa 12455 - Bars](Chapter%203/UVa%20-%2012455.cpp)
 - [x] [UVa 11085 - Back to the 8-Queens](Chapter%203/UVa%20-%2011085.cpp)
@@ -30,7 +30,7 @@ Solutions for the homeworks. __(** - Looks correct but not passed)__
 - [x] [UVa 01262 - Password](Chapter%203/UVa%20-%2001262.cpp)
 - [x] [UVa 12192 - Grapevine](Chapter%203/UVa%20-%2012192.cpp)
 - [x] [UVa 12032 - The Monkey](Chapter%203/UVa%20-%2012032.cpp)
-- [ ] UVa 00183 - Bit Maps  
+- [x] [UVa 00183 - Bit Maps](Chapter%203/UVa%20-%2000183.cpp)***
 - [x] [UVa 11389 - The Bus Driver Problem](Chapter%203/UVa%20-%2011389.cpp)
 - [ ] UVa 12210 - A Match Making Problem  					
 - [ ] UVa 11157 - Dynamic Frog
