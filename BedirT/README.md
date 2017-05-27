@@ -5,7 +5,7 @@ Solutions for the homeworks. __(** - Looks correct but not passed)__
 ### Chapter 2 - _Data Structures and Libraries_
 
 - [x] [UVa 10038 - Jolly Jumpers](Chapter%202/UVa%20-%2010038.cpp)
-- [ ] UVa 11581 - Grid Successors 
+- [x] [UVa 11581 - Grid Successors](Chapter%202/UVa%20-%2011581.cpp)
 - [x] [UVa 10258 - Contest Scoreboard](Chapter%202/UVa%20-%2010258.cpp)
 - [x] [UVa 11933 - Splitting Numbers](Chapter%202/UVa%20-%2011933.cpp) 
 - [x] [UVa 11988 - Broken Keyboard](Chapter%202/UVa%20-%2011988.cpp)
