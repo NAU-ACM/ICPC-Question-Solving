@@ -1,42 +1,40 @@
-## [BedirT](https://github.com/BedirT) 
----
-Solutions for the homeworks. __(*** - Looks correct but not passed)__
+## [iRasuna](https://github.com/iRasuna)
 
 ### Chapter 2 - _Data Structures and Libraries_
 
-- [x] [UVa 10038 - Jolly Jumpers](Chapter%202/UVa%20-%2010038.cpp)
-- [x] [UVa 11581 - Grid Successors](Chapter%202/UVa%20-%2011581.cpp)
-- [x] [UVa 10258 - Contest Scoreboard](Chapter%202/UVa%20-%2010258.cpp)
-- [x] [UVa 11933 - Splitting Numbers](Chapter%202/UVa%20-%2011933.cpp) 
-- [x] [UVa 11988 - Broken Keyboard](Chapter%202/UVa%20-%2011988.cpp)
+- [X] [UVa 10038 - Jolly Jumpers](Chapter%202/UVa%2010038.cpp)
+- [ ] UVa 11581 - Grid Successors
+- [ ] UVa 10258 - Contest Scoreboard
+- [ ] UVa 11933 - Splitting Numbers
+- [ ] UVa 11988 - Broken Keyboard
 - [ ] UVa 01062 - Containers
-- [x] [UVa 11286 - Conformity](Chapter%202/UVa%20-%2011286.cpp) 
-- [x] [UVa 00978 - Lemmings Battle](Chapter%202/UVa%20-%2000978.cpp)
-- [x] [UVa 10954 - Add All](Chapter%202/UVa%20-%2010954.cpp)
-- [x] [UVa 00599 - The Forrest for the Trees](Chapter%202/UVa%20-%2000599.cpp)
-- [x] [UVa 00793 - Network Connections](Chapter%202/UVa%20-%2000793.cpp)
-- [x] [UVa 12532 - Interval Product](Chapter%202/UVa%20-%2012532.cpp)
+- [ ] UVa 11286 - Conformity
+- [ ] UVa 00978 - Lemmings Battle
+- [ ] UVa 10954 - Add All
+- [ ] UVa 00599 - The Forrest for the Trees
+- [ ] UVa 00793 - Network Connections
+- [ ] UVa 12532 - Interval Product
 
 ### Chapter 3 - _Problem Solving Paradigms_
 
-- [x] [UVa 01237 - Expert Enough](Chapter%203/UVa%20-%2001237.cpp)
-- [x] [UVa 10487 - Closest Sums](Chapter%203/UVa%20-%2010487.cpp)
-- [x] [UVa 00441 - Lotto](Chapter%203/UVa%20-%2000441.cpp)
-- [x] [UVa 10660 - Citizen attention](Chapter%203/UVa%20-%2010660.cpp)***
+- [ ] UVa 01237 - Expert Enough
+- [ ] UVa 10487 - Closest Sums
+- [ ] UVa 00441 - Lotto
+- [ ] UVa 10660 - Citizen attention
 - [ ] UVa 01047 - Zones 
-- [x] [UVa 12455 - Bars](Chapter%203/UVa%20-%2012455.cpp)
-- [x] [UVa 11085 - Back to the 8-Queens](Chapter%203/UVa%20-%2011085.cpp)
-- [x] [UVa 00524 - Prime Ring Problem](Chapter%203/UVa%20-%2000524.cpp)
-- [x] [UVa 01262 - Password](Chapter%203/UVa%20-%2001262.cpp)
-- [x] [UVa 12192 - Grapevine](Chapter%203/UVa%20-%2012192.cpp)
-- [x] [UVa 12032 - The Monkey](Chapter%203/UVa%20-%2012032.cpp)
-- [x] [UVa 00183 - Bit Maps](Chapter%203/UVa%20-%2000183.cpp)***
-- [x] [UVa 11389 - The Bus Driver Problem](Chapter%203/UVa%20-%2011389.cpp)
-- [x] [UVa 12210 - A Match Making Problem](Chapter%203/UVa%20-%2012210.cpp)
-- [x] [UVa 11157 - Dynamic Frog](Chapter%203/UVa%20-%2011157.cpp)
+- [ ] UVa 12455 - Bars
+- [ ] UVa 11085 - Back to the 8-Queens
+- [ ] UVa 00524 - Prime Ring Problem
+- [ ] UVa 01262 - Password
+- [ ] UVa 12192 - Grapevine
+- [ ] UVa 12032 - The Monkey
+- [ ] UVa 00183 - Bit Maps  
+- [ ] UVa 11389 - The Bus Driver Problem
+- [ ] UVa 12210 - A Match Making Problem  					
+- [ ] UVa 11157 - Dynamic Frog
 - [ ] UVa 10755 - Garbage Heap  
 - [ ] UVa 11951 - Area  	
-- [x] [UVa 00481 - What Goes Up?](Chapter%203/UVa%20-%2000481.cpp)
+- [ ] UVa 00481 - What Goes Up? 
 - [ ] UVa 10819 - Trouble of 13-Dots 
 - [ ] UVa 10496 - Collecting Beepers 
 - [ ] UVa 00357 - Let Me Count The Ways 		
