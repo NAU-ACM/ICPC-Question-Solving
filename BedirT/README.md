@@ -36,7 +36,7 @@ Solutions for the homeworks. __(*** - Looks correct but not passed)__
 - [x] [UVa 11157 - Dynamic Frog](Chapter%203/UVa%20-%2011157.cpp)
 - [ ] UVa 10755 - Garbage Heap  
 - [ ] UVa 11951 - Area  	
-- [ ] UVa 00481 - What Goes Up? 
+- [x] [UVa 00481 - What Goes Up?](Chapter%203/UVa%20-%2000481.cpp)
 - [ ] UVa 10819 - Trouble of 13-Dots 
 - [ ] UVa 10496 - Collecting Beepers 
 - [ ] UVa 00357 - Let Me Count The Ways 		
