@@ -1,3 +1,4 @@
+// Network Connections
 #include <iostream>
 #include <sstream>
 #include <string>
@@ -33,7 +34,7 @@ int main ()
 		getline(cin, s);
 		
 		int ar[10005]; 
-		for (int i=0; i<n; i++) ar[i]=i;
+		for (int i=0; i<=n; i++) ar[i]=i;
 		int succes=0, fail=0;
 
 		getline(cin, s);
