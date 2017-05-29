@@ -6,7 +6,8 @@ struct Teams {
 	int ID;
 	int qSolved;
 	int penalty;
-	bool qMap[10];
+	int qMap[10];
+	bool submit;
 };
 
 bool team_cmp(Teams const& lhs, Teams const& rhs) {
@@ -32,20 +33,18 @@ int main() {
 			istringstream strin(s);
 			
 			strin >> teamID >> questionID >> time >> verdict;
-			//cout << teamID << " " << questionID << " " << time << " " << verdict << endl;
 			
-			if (!team[teamID].qMap[questionID]) {
+			team[teamID].ID = teamID;
+			team[teamID].submit = true;
+			
+			if (team[teamID].qMap[questionID] != -1) {
 				if (verdict == 'I') {
-					team[teamID].ID = teamID;
-					
-					team[teamID].penalty += 20;
+					team[teamID].qMap[questionID]++;
 				}
 				else if (verdict == 'C') {
-					team[teamID].ID = teamID;
-					
-					team[teamID].penalty += time;
+					team[teamID].penalty += (team[teamID].qMap[questionID] * 20) + time;
 					team[teamID].qSolved++;
-					team[teamID].qMap[questionID] = true;
+					team[teamID].qMap[questionID] = -1;
 				}
 			}
 		}
@@ -53,10 +52,12 @@ int main() {
 		sort(team, team+101, &team_cmp);
 		
 		for(int i = 0; i < 101; ++i){
-			if (team[i].qSolved > 0){
+			if (team[i].submit){
 				cout << team[i].ID << " " << team[i].qSolved << " " << team[i].penalty << endl;
 			}
 		}
+		
+		if (t) cout << endl;
 	}
 	
 	return 0;
