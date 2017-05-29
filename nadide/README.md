@@ -5,16 +5,16 @@ Solutions for the homeworks
 ### Chapter 2 - _Data Structures and Libraries_
 
 - [x] [UVa 10038 - Jolly Jumpers](Chapter2/UVa-10038.cpp)
-- [x] [UVa 11581 - Grid Successors] (Chapter2/UVa-11581.cpp)
+- [x] [UVa 11581 - Grid Successors](Chapter2/UVa-11581.cpp)
 - [ ] UVa 10258 - Contest Scoreboard 
 - [ ] UVa 11933 - Splitting Numbers 
 - [ ] UVa 11988 - Broken Keyboard
 - [ ] UVa 01062 - Containers
-- [ ] UVa 11286 - Conformity 
+- [x] [UVa 11286 - Conformity](Chapter2/UVa-11286.cpp)
 - [ ] UVa 00978 - Lemmings Battle
 - [ ] UVa 10954 - Add All
 - [ ] UVa 00599 - The Forrest for the Trees
-- [ ] UVa 00793 - Network Connections
+- [x] [UVa 00793 - Network Connections](Chapter2/UVa-00793.cpp)
 - [ ] UVa 12532 - Interval Product
 
 ### Chapter 3 - _Problem Solving Paradigms_
