@@ -11,7 +11,7 @@ Solutions for the homeworks
 - [x] UVa 11988 - [Broken Keyboard](https://github.com/NAU-ACM/ICPC-Question-Solving/blob/master/Quyen/Chap%202/Uva%2011988%20Broken%20Keyboard.cpp)
 - [ ] UVa 01062 - Containers
 - [ ] UVa 11286 - Conformity 
-- [ ] UVa 00978 - Lemmings Battle
+- [ ] UVa 00978* - [Lemmings Battle](https://github.com/NAU-ACM/ICPC-Question-Solving/blob/master/Quyen/Chap%202/Uva%2000987%20-%20Lemmings%20Battle.cpp)
 - [x] [UVa 10954 - Add All](https://github.com/NAU-ACM/ICPC-Question-Solving/blob/master/Quyen/Chap%202/Uva%2010954%20-%20Add%20All.cpp)
 - [ ] UVa 00599 - The Forrest for the Trees
 - [ ] UVa 00793 - Network Connections
