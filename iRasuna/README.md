@@ -4,7 +4,7 @@
 
 - [X] [UVa 10038 - Jolly Jumpers](Chapter%202/UVa%2010038.cpp)
 - [ ] UVa 11581 - Grid Successors
-- [ ] UVa 10258 - Contest Scoreboard
+- [X] UVa 10258 - Contest Scoreboard(Chapter%202/UVa%2010258.cpp)**Wrong Answer, help?*
 - [ ] UVa 11933 - Splitting Numbers
 - [ ] UVa 11988 - Broken Keyboard
 - [ ] UVa 01062 - Containers
