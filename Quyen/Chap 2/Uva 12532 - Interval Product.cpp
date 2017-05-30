@@ -28,8 +28,8 @@ int main (void)
 			cin>>I;
 			cin>>V;
 			sequence[I - 1] = V;
-			for (int i = 0; i<n;i++)
-				cout<<sequence[i]<<" ";
+//			for (int i = 0; i<n;i++)
+//				cout<<sequence[i]<<" ";
 	
 		}
 		else if (command == 'P')
@@ -52,7 +52,7 @@ int main (void)
 //		cout<<k<<endl;
 			
 	}
-		
+		cout<<result<<endl;
 	}
 	return 0;
 }
