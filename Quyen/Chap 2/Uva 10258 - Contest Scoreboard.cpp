@@ -12,7 +12,9 @@ int main (void)
 {
 	int t;
 	cin >> t;
-	
+	string s;
+	getline(cin, s); 
+	getline(cin, s);
 	while (t--)
 	{
 		int contestant,problem,time;
