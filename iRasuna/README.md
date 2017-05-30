@@ -3,9 +3,9 @@
 ### Chapter 2 - _Data Structures and Libraries_
 
 - [X] [UVa 10038 - Jolly Jumpers](Chapter%202/UVa%2010038.cpp)
-- [ ] UVa 11581 - Grid Successors
+- [ ] UVa 11581 - Grid Successors <sup>[[?]](#question)</sup>
 - [X] [UVa 10258 - Contest Scoreboard](Chapter%202/UVa%2010258.cpp)
-- [ ] UVa 11933 - Splitting Numbers
+- [X] [UVa 11933 - Splitting Numbers](Chapter%202/UVa%2011933.cpp)
 - [ ] UVa 11988 - Broken Keyboard
 - [ ] UVa 01062 - Containers
 - [ ] UVa 11286 - Conformity
@@ -164,3 +164,7 @@
 - [ ] UVa 11462 - Age Sort
 - [ ] UVa 10017 - The Never Ending
 
+----
+
+- <a name="question">?</a> : Skipped, don't panic be back ASAP!
+- <a name="stuck">!</a> : Stuck, need immediate help!
