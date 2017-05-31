@@ -37,10 +37,10 @@ Solutions for the homeworks. __(*** - Looks correct but not passed)__
 - [ ] UVa 10755 - Garbage Heap  
 - [ ] UVa 11951 - Area  	
 - [x] [UVa 00481 - What Goes Up?](Chapter%203/UVa%20-%2000481.cpp)
-- [ ] UVa 10819 - Trouble of 13-Dots 
-- [ ] UVa 10496 - Collecting Beepers 
+- [x] [UVa 10819 - Trouble of 13-Dots](Chapter%203/UVa%20-%2010819.cpp)
+- [ ] UVa 10496 - Collecting Beepers
 - [x] [UVa 00357 - Let Me Count The Ways](Chapter%203/UVa%20-%2000357.cpp)
-- [ ] UVa 10337 - Flight Planner
+- [x] [UVa 10337 - Flight Planner](Chapter%203/UVa%20-%2010337.cpp)***
 
 ### Chapter 4 - _Graph_
 
