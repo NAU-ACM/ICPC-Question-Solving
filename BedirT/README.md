@@ -35,7 +35,7 @@ Solutions for the homeworks. __(*** - Looks correct but not passed)__
 - [x] [UVa 12210 - A Match Making Problem](Chapter%203/UVa%20-%2012210.cpp)
 - [x] [UVa 11157 - Dynamic Frog](Chapter%203/UVa%20-%2011157.cpp)
 - [x] [UVa 10755 - Garbage Heap](Chapter%203/UVa%20-%2010755.cpp)
-- [ ] UVa 11951 - Area  	
+- [x] [UVa 11951 - Area](Chapter%203/UVa%20-%2011951.cpp)  	
 - [x] [UVa 00481 - What Goes Up?](Chapter%203/UVa%20-%2000481.cpp)
 - [x] [UVa 10819 - Trouble of 13-Dots](Chapter%203/UVa%20-%2010819.cpp)
 - [ ] UVa 10496 - Collecting Beepers
