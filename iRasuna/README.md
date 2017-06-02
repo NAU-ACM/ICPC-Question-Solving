@@ -3,11 +3,11 @@
 ### Chapter 2 - _Data Structures and Libraries_
 
 - [X] [UVa 10038 - Jolly Jumpers](Chapter%202/UVa%2010038.cpp)
-- [ ] UVa 11581 - Grid Successors
-- [ ] UVa 10258 - Contest Scoreboard
-- [ ] UVa 11933 - Splitting Numbers
-- [ ] UVa 11988 - Broken Keyboard
-- [ ] UVa 01062 - Containers
+- [ ] UVa 11581 - Grid Successors :question: 
+- [X] [UVa 10258 - Contest Scoreboard](Chapter%202/UVa%2010258.cpp)
+- [X] [UVa 11933 - Splitting Numbers](Chapter%202/UVa%2011933.cpp)
+- [X] [UVa 11988 - Broken Keyboard](Chapter%202/UVa%2011988.cpp) :exclamation: 
+- [X] [UVa 01062 - Containers](Chapter%202/UVa%201062.cpp)
 - [ ] UVa 11286 - Conformity
 - [ ] UVa 00978 - Lemmings Battle
 - [ ] UVa 10954 - Add All
@@ -163,4 +163,3 @@
 - [ ] UVa 00344 - Roman Digititis 
 - [ ] UVa 11462 - Age Sort
 - [ ] UVa 10017 - The Never Ending
-
