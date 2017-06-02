@@ -44,7 +44,7 @@ Solutions for the homeworks. __(*** - Looks correct but not passed)__
 
 ### Chapter 4 - _Graph_
 
-- [ ] UVa 12442 - Forwarding Emails 
+- [x] [UVa 12442 - Forwarding Emails](Chapter%204/UVa%20-%2012442.cpp)
 - [ ] UVa 01103 - Ancient Messages 
 - [ ] UVa 10305 - Ordering Tasks		
 - [ ] UVa 10004 - Bicoloring 	
