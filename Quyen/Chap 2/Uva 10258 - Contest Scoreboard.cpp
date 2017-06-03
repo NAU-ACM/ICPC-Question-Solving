@@ -4,20 +4,12 @@
 #include <cstring>
 #include <fstream>
 #include <algorithm>
-#define fin cin
-#define fout cout
+
 
 using namespace std;
 
 int main (void)
 {
-	ifstream fin;
-
-	ofstream fout;
-
-	fin.open("input.txt");
-
-	fout.open("output.txt");
 	int t;
 	cin >> t;
 	string s;
@@ -71,8 +63,7 @@ int main (void)
 }//end for loop
 	
 }
-fin.close();
-fout.close();
+
 	return 0;
 
 }
