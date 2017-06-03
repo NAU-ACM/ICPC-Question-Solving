@@ -1,21 +1,21 @@
 ## [tquyen1997](https://github.com/tquyen1997) 
 ---
 Solutions for the homeworks
-
+Question with the asterisk (*) are not passed. Debugging in progress
 ### Chapter 2 - _Data Structures and Libraries_
 
-- [x] [UVa 10038 - Jolly Jumpers](https://github.com/NAU-ACM/ICPC-Question-Solving/blob/master/Quyen/Chap%202/UVa%2010038%20-%20Jolly%20Jumber.cpp)
+- [x] [UVa 10038 - Jolly Jumpers](https://github.com/NAU-ACM/ICPC-Question-Solving/blob/master/Quyen/Chap%202/UVa%2010038%20-%20Jolly%20Jumber.cpp)*
 - [ ] UVa 11581 - Grid Successors 
-- [x] [UVa 10258 - [Contest Scoreboard](https://github.com/NAU-ACM/ICPC-Question-Solving/blob/master/Quyen/Chap%202/Uva%2010258%20-%20Contest%20Scoreboard.cpp)
+- [x] [UVa 10258 - Contest Scoreboard](https://github.com/NAU-ACM/ICPC-Question-Solving/blob/master/Quyen/Chap%202/Uva%2010258%20-%20Contest%20Scoreboard.cpp)*
 - [x] [UVa 11933 - Sxplitting Numbers](https://github.com/NAU-ACM/ICPC-Question-Solving/blob/master/Quyen/Chap%202/Uva%2011933%20-%20Splitting%20Number.cpp)
-- [x] UVa 11988 - [Broken Keyboard](https://github.com/NAU-ACM/ICPC-Question-Solving/blob/master/Quyen/Chap%202/Uva%2011988%20Broken%20Keyboard.cpp)
+- [x] [UVa 11988 - Broken Keyboard](https://github.com/NAU-ACM/ICPC-Question-Solving/blob/master/Quyen/Chap%202/Uva%2011988%20Broken%20Keyboard.cpp)*
 - [ ] UVa 01062 - Containers
-- [ ] UVa 11286 - Conformity 
+- [x] [UVa 11286 - Conformity](https://github.com/NAU-ACM/ICPC-Question-Solving/blob/master/Quyen/Chap%202/Uva%2011286%20-%20Conformity.cpp)
 - [x] [UVa 00978 - Lemmings Battle](https://github.com/NAU-ACM/ICPC-Question-Solving/blob/master/Quyen/Chap%202/Uva%2000987%20-%20Lemmings%20Battle.cpp)*
-- [x] [UVa 10954 - Add All](https://github.com/NAU-ACM/ICPC-Question-Solving/blob/master/Quyen/Chap%202/Uva%2010954%20-%20Add%20All.cpp)
-- [ ] UVa 00599 - The Forrest for the Trees
+- [x] [UVa 10954 - Add All](https://github.com/NAU-ACM/ICPC-Question-Solving/blob/master/Quyen/Chap%202/Uva%2010954%20-%20Add%20All.cpp)*
+- [x] [UVa 00599 - The Forrest for the Trees](https://github.com/NAU-ACM/ICPC-Question-Solving/blob/master/Quyen/Chap%202/Uva%2000599%20-%20The%20Forest%20For%20The%20Tree.cpp)*
 - [ ] UVa 00793 - Network Connections
-- [ ] UVa 12532 - Interval Product
+- [x] [UVa 12532 - Interval Product](https://github.com/NAU-ACM/ICPC-Question-Solving/blob/master/Quyen/Chap%202/Uva%2012532%20-%20Interval%20Product.cpp)*
 
 ### Chapter 3 - _Problem Solving Paradigms_
 
