@@ -47,7 +47,7 @@ Solutions for the homeworks. __(*** - Looks correct but not passed)__
 - [x] [UVa 12442 - Forwarding Emails](Chapter%204/UVa%20-%2012442.cpp)
 - [x] [UVa 01103 - Ancient Messages](Chapter%204/UVa%20-%2001103.cpp)***
 - [x] [UVa 10305 - Ordering Tasks](Chapter%204/UVa%20-%2010305.cpp)
-- [ ] UVa 10004 - Bicoloring 	
+- [x] [UVa 10004 - Bicoloring](Chapter%204/UVa%20-%2010004.cpp)
 - [ ] UVa 10765 - Doves and Bombs 
 - [ ] UVa 00247 - Calling Circles
 - [ ] UVa 11747 - Heavy Cycle Edges 
