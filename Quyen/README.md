@@ -13,7 +13,7 @@ Question with the asterisk (*) are not passed. Debugging in progress
 - [x] [UVa 11286 - Conformity](https://github.com/NAU-ACM/ICPC-Question-Solving/blob/master/Quyen/Chap%202/Uva%2011286%20-%20Conformity.cpp)
 - [x] [UVa 00978 - Lemmings Battle](https://github.com/NAU-ACM/ICPC-Question-Solving/blob/master/Quyen/Chap%202/Uva%2000987%20-%20Lemmings%20Battle.cpp)*
 - [x] [UVa 10954 - Add All](https://github.com/NAU-ACM/ICPC-Question-Solving/blob/master/Quyen/Chap%202/Uva%2010954%20-%20Add%20All.cpp)
-- [x] [UVa 00599 - The Forrest for the Trees](https://github.com/NAU-ACM/ICPC-Question-Solving/blob/master/Quyen/Chap%202/Uva%2000599%20-%20The%20Forest%20For%20The%20Tree.cpp)*
+- [x] [UVa 00599 - The Forrest for the Trees](https://github.com/NAU-ACM/ICPC-Question-Solving/blob/master/Quyen/Chap%202/Uva%2000599%20-%20The%20Forest%20For%20The%20Tree.cpp)
 - [x] [UVa 00793 - Network Connections](https://github.com/NAU-ACM/ICPC-Question-Solving/blob/master/Quyen/Chap%202/Uva793%20Network%20Connection.cpp)
 - [x] [UVa 12532 - Interval Product](https://github.com/NAU-ACM/ICPC-Question-Solving/blob/master/Quyen/Chap%202/Uva%2012532%20-%20Interval%20Product.cpp)*
 
