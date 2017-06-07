@@ -19,9 +19,9 @@ Question with the asterisk (*) are not passed. Debugging in progress
 
 ### Chapter 3 - _Problem Solving Paradigms_
 
-- [ ] Va 01237 - Expert Enough
-- [ ] UUVa 10487 - Closest Sums  
-- [ ] UVa 00441 - Lotto 
+- [x] [UVa 01237 - Expert Enough](https://github.com/NAU-ACM/ICPC-Question-Solving/blob/master/Quyen/Chap%203/Uva%2001237%20-%20Expert%20Enough.cpp)
+- [x] [UVa 10487 - Closest Sums](https://github.com/NAU-ACM/ICPC-Question-Solving/blob/master/Quyen/Chap%203/Uva%2010487%20-%20Closest%20Sum.cpp) 
+- [x] [UVa 00441 - Lotto](https://github.com/NAU-ACM/ICPC-Question-Solving/blob/master/Quyen/Chap%203/Uva%20441%20-%20Lotto.cpp) 
 - [ ] UVa 10660 - Citizen attention 
 - [ ] UVa 01047 - Zones 
 - [ ] UVa 12455 - Bars
