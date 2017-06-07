@@ -50,7 +50,7 @@ Solutions for the homeworks. __(*** - Looks correct but not passed)__
 - [x] [UVa 10004 - Bicoloring](Chapter%204/UVa%20-%2010004.cpp)
 - [ ] UVa 10765 - Doves and Bombs 
 - [x] [UVa 00247 - Calling Circles](Chapter%204/UVa%20-%2000247.cpp)
-- [ ] UVa 11747 - Heavy Cycle Edges 
+- [x] [UVa 11747 - Heavy Cycle Edges](Chapter%204/UVa%20-%2011747.cpp)
 - [ ] UVa 10369 - Arctic Networks  
 - [ ] UVa 00924 - Spreading the News 
 - [ ] UVa 00314 - Robot 
