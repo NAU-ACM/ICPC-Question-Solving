@@ -51,7 +51,7 @@ Solutions for the homeworks. __(*** - Looks correct but not passed)__
 - [ ] UVa 10765 - Doves and Bombs 
 - [x] [UVa 00247 - Calling Circles](Chapter%204/UVa%20-%2000247.cpp)
 - [x] [UVa 11747 - Heavy Cycle Edges](Chapter%204/UVa%20-%2011747.cpp)
-- [ ] UVa 10369 - Arctic Networks  
+- [x] [UVa 10369 - Arctic Networks](Chapter%204/UVa%20-%2010369.cpp)
 - [ ] UVa 00924 - Spreading the News 
 - [ ] UVa 00314 - Robot 
 - [ ] UVa 01112 - Mice and Maze  
