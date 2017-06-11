@@ -54,6 +54,9 @@ Here we have the sources that helped us solving the question specified.
 - UVa 10004 - Bicoloring 	
 - UVa 10765 - Doves and Bombs 
 - UVa 00247 - Calling Circles
+  - [Strongly connected Components](https://www.youtube.com/watch?v=ju9Yk7OOEb8)
+  - [Tarjan's Algorithm - Quora](https://www.quora.com/Whats-a-good-explanation-for-Tarjans-strongly-connected-components-algorithm)
+  - [Tarjan's Algorithm - GeeksforGeeks](http://www.geeksforgeeks.org/tarjan-algorithm-find-strongly-connected-components/)
 - UVa 11747 - Heavy Cycle Edges 
 - UVa 10369 - Arctic Networks  
 - UVa 00924 - Spreading the News 

@@ -2,7 +2,7 @@
 #include <vector>
 #include <string>
 #include <cstring>
-
+#include <fstream>
 #include <algorithm>
 
 
@@ -63,6 +63,7 @@ int main (void)
 }//end for loop
 	
 }
+
 	return 0;
 
 }

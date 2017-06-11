@@ -73,8 +73,8 @@ int main (void)
 		cin>>a;
 		int tree = 0;
 		int acorn = 0;
-		for (int x = 0; x <26;x++)
-			cout<<size[x]<<endl;
+	//	for (int x = 0; x <26;x++)
+	//		cout<<size[x]<<endl;
 		for (int i = 0; i < a.size(); i+=2)
 			{
 				size[a[i] - 65]++;
@@ -89,7 +89,7 @@ int main (void)
 	//	for (int x = 0; x <26;x++)
 	//		cout<<size[x]<<endl;
 		cout<<"There are "<<tree<<" tree(s)";
-		cout<<" and "<<acorn<<" acorn(s)";			
+		cout<<" and "<<acorn<<" acorn(s)."<<endl;			
 	}
 	return 0;
 }

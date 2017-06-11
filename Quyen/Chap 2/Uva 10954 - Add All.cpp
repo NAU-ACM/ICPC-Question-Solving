@@ -2,10 +2,13 @@
 #include <iostream>
 #include <vector>
 #include <algorithm>
+#include <fstream>
+
 using namespace std;
 
 int main()
 {
+	
 	int n;
 
 	while (cin >> n)
@@ -20,16 +23,19 @@ int main()
 				cin >> numb;
 				numbers.push_back(numb);
 			}
-		sort(numbers.begin(), numbers.end());
-		for (int j = 0; j < n - 1; j++)
+		
+		while (n != 1)
 		{
-			numbers[j+1] = numbers[j] + numbers[j + 1];
-			cost += numbers[j+1];
-			
+			sort(numbers.begin(), numbers.end());
+			cost +=	numbers[1] + numbers[0];
+			numbers.push_back(numbers[0] + numbers[1]);
+			numbers.erase(numbers.begin(),numbers.begin() + 2);
+			n--;
 		}
 
-		cout<<cost;
+		cout<<cost<<endl;
 
 	}
+	
     return 0;
 }

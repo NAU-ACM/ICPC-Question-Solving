@@ -4,7 +4,7 @@ Solutions for the homeworks
 Question with the asterisk (*) are not passed. Debugging in progress
 ### Chapter 2 - _Data Structures and Libraries_
 
-- [x] [UVa 10038 - Jolly Jumpers](https://github.com/NAU-ACM/ICPC-Question-Solving/blob/master/Quyen/Chap%202/UVa%2010038%20-%20Jolly%20Jumber.cpp)*
+- [x] [UVa 10038 - Jolly Jumpers](https://github.com/NAU-ACM/ICPC-Question-Solving/blob/master/Quyen/Chap%202/UVa%2010038%20-%20Jolly%20Jumber.cpp)
 - [ ] UVa 11581 - Grid Successors 
 - [x] [UVa 10258 - Contest Scoreboard](https://github.com/NAU-ACM/ICPC-Question-Solving/blob/master/Quyen/Chap%202/Uva%2010258%20-%20Contest%20Scoreboard.cpp)*
 - [x] [UVa 11933 - Sxplitting Numbers](https://github.com/NAU-ACM/ICPC-Question-Solving/blob/master/Quyen/Chap%202/Uva%2011933%20-%20Splitting%20Number.cpp)
@@ -12,16 +12,16 @@ Question with the asterisk (*) are not passed. Debugging in progress
 - [ ] UVa 01062 - Containers
 - [x] [UVa 11286 - Conformity](https://github.com/NAU-ACM/ICPC-Question-Solving/blob/master/Quyen/Chap%202/Uva%2011286%20-%20Conformity.cpp)
 - [x] [UVa 00978 - Lemmings Battle](https://github.com/NAU-ACM/ICPC-Question-Solving/blob/master/Quyen/Chap%202/Uva%2000987%20-%20Lemmings%20Battle.cpp)*
-- [x] [UVa 10954 - Add All](https://github.com/NAU-ACM/ICPC-Question-Solving/blob/master/Quyen/Chap%202/Uva%2010954%20-%20Add%20All.cpp)*
-- [x] [UVa 00599 - The Forrest for the Trees](https://github.com/NAU-ACM/ICPC-Question-Solving/blob/master/Quyen/Chap%202/Uva%2000599%20-%20The%20Forest%20For%20The%20Tree.cpp)*
-- [ ] UVa 00793 - Network Connections
+- [x] [UVa 10954 - Add All](https://github.com/NAU-ACM/ICPC-Question-Solving/blob/master/Quyen/Chap%202/Uva%2010954%20-%20Add%20All.cpp)
+- [x] [UVa 00599 - The Forrest for the Trees](https://github.com/NAU-ACM/ICPC-Question-Solving/blob/master/Quyen/Chap%202/Uva%2000599%20-%20The%20Forest%20For%20The%20Tree.cpp)
+- [x] [UVa 00793 - Network Connections](https://github.com/NAU-ACM/ICPC-Question-Solving/blob/master/Quyen/Chap%202/Uva793%20Network%20Connection.cpp)
 - [x] [UVa 12532 - Interval Product](https://github.com/NAU-ACM/ICPC-Question-Solving/blob/master/Quyen/Chap%202/Uva%2012532%20-%20Interval%20Product.cpp)*
 
 ### Chapter 3 - _Problem Solving Paradigms_
 
-- [ ] Va 01237 - Expert Enough
-- [ ] UUVa 10487 - Closest Sums  
-- [ ] UVa 00441 - Lotto 
+- [x] [UVa 01237 - Expert Enough](https://github.com/NAU-ACM/ICPC-Question-Solving/blob/master/Quyen/Chap%203/Uva%2001237%20-%20Expert%20Enough.cpp)
+- [x] [UVa 10487 - Closest Sums](https://github.com/NAU-ACM/ICPC-Question-Solving/blob/master/Quyen/Chap%203/Uva%2010487%20-%20Closest%20Sum.cpp) 
+- [x] [UVa 00441 - Lotto](https://github.com/NAU-ACM/ICPC-Question-Solving/blob/master/Quyen/Chap%203/Uva%20441%20-%20Lotto.cpp) 
 - [ ] UVa 10660 - Citizen attention 
 - [ ] UVa 01047 - Zones 
 - [ ] UVa 12455 - Bars

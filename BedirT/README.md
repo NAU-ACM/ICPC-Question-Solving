@@ -45,13 +45,13 @@ Solutions for the homeworks. __(*** - Looks correct but not passed)__
 ### Chapter 4 - _Graph_
 
 - [x] [UVa 12442 - Forwarding Emails](Chapter%204/UVa%20-%2012442.cpp)
-- [ ] UVa 01103 - Ancient Messages 
-- [ ] UVa 10305 - Ordering Tasks		
-- [ ] UVa 10004 - Bicoloring 	
+- [x] [UVa 01103 - Ancient Messages](Chapter%204/UVa%20-%2001103.cpp)***
+- [x] [UVa 10305 - Ordering Tasks](Chapter%204/UVa%20-%2010305.cpp)
+- [x] [UVa 10004 - Bicoloring](Chapter%204/UVa%20-%2010004.cpp)
 - [ ] UVa 10765 - Doves and Bombs 
-- [ ] UVa 00247 - Calling Circles
-- [ ] UVa 11747 - Heavy Cycle Edges 
-- [ ] UVa 10369 - Arctic Networks  
+- [x] [UVa 00247 - Calling Circles](Chapter%204/UVa%20-%2000247.cpp)
+- [x] [UVa 11747 - Heavy Cycle Edges](Chapter%204/UVa%20-%2011747.cpp)
+- [x] [UVa 10369 - Arctic Networks](Chapter%204/UVa%20-%2010369.cpp)
 - [ ] UVa 00924 - Spreading the News 
 - [ ] UVa 00314 - Robot 
 - [ ] UVa 01112 - Mice and Maze  
