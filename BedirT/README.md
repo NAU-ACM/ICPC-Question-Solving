@@ -55,7 +55,7 @@ Solutions for the homeworks. __(*** - Looks correct but not passed)__
 - [x] [UVa 00924 - Spreading the News](Chapter%204/UVa%20-%20924.cpp)
 - [ ] UVa 00314 - Robot 
 - [x] [UVa 01112 - Mice and Maze](Chapter%204/UVa%20-%201112.cpp)
-- [ ] UVa 11492 - Babel  
+- [x] [UVa 11492 - Babel](Chapter%204/UVa%20-%2011492.cpp)
 - [ ] UVa 10557 - XYZZY 
 - [ ] UVa 10171 - Meeting Prof. Miguel 
 - [ ] UVa 01056 - Degrees of Separation  
