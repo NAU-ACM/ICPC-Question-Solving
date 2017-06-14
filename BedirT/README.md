@@ -56,7 +56,7 @@ Solutions for the homeworks. __(*** - Looks correct but not passed)__
 - [ ] UVa 00314 - Robot 
 - [x] [UVa 01112 - Mice and Maze](Chapter%204/UVa%20-%201112.cpp)
 - [x] [UVa 11492 - Babel](Chapter%204/UVa%20-%2011492.cpp)
-- [ ] UVa 10557 - XYZZY 
+- [x] [UVa 10557 - XYZZY](Chapter%204/UVa%20-%2010557.cpp)***
 - [ ] UVa 10171 - Meeting Prof. Miguel 
 - [ ] UVa 01056 - Degrees of Separation  
 - [ ] UVa 11167 - Monkeys in the Emei 
