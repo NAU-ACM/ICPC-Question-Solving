@@ -65,7 +65,7 @@ Here we have the sources that helped us solving the question specified.
 - UVa 11492 - Babel  
 - UVa 10557 - XYZZY 
 - UVa 10171 - Meeting Prof. Miguel
-  - I don't know why, but people used Floyd Warshall for solving this q, even though the source is specified in the question. I got AC with Bellman-Ford, do follow your own way don't go with other people's solutions. [Check this question](https://cs.stackexchange.com/questions/2942/am-i-right-about-the-differences-between-floyd-warshall-dijkstra-and-bellman-fo) to see which algorithm to use when (for shortest path questions.)
+  - I don't know why, but people used Floyd Warshall for solving this q, even though the source(starting node) is specified in the question. I got AC with Bellman-Ford, do follow your own way don't go with other people's solutions. [Check this question](https://cs.stackexchange.com/questions/2942/am-i-right-about-the-differences-between-floyd-warshall-dijkstra-and-bellman-fo) to see which algorithm to use when (for shortest path questions.)
 - UVa 01056 - Degrees of Separation  
 - UVa 11167 - Monkeys in the Emei 
 - UVa 11380 - Down Went The Titanic 

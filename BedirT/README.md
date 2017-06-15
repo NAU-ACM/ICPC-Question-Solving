@@ -58,7 +58,7 @@ Solutions for the homeworks. __(*** - Looks correct but not passed)__
 - [x] [UVa 11492 - Babel](Chapter%204/UVa%20-%2011492.cpp)
 - [x] [UVa 10557 - XYZZY](Chapter%204/UVa%20-%2010557.cpp)***
 - [x] [UVa 10171 - Meeting Prof. Miguel](Chapter%204/UVa%20-%2010171.cpp)
-- [ ] UVa 01056 - Degrees of Separation  
+- [x] [UVa 01056 - Degrees of Separation](Chapter%204/UVa%20-%201056.cpp)
 - [ ] UVa 11167 - Monkeys in the Emei 
 - [ ] UVa 11380 - Down Went The Titanic 
 - [ ] UVa 10350 - Liftless Eme  
