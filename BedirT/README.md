@@ -11,54 +11,54 @@ Solutions for the homeworks. __(*** - Looks correct but not passed)__
 - [x] [UVa 11988 - Broken Keyboard](Chapter%202/UVa%20-%2011988.cpp)
 - [ ] UVa 01062 - Containers
 - [x] [UVa 11286 - Conformity](Chapter%202/UVa%20-%2011286.cpp) 
-- [x] [UVa 00978 - Lemmings Battle](Chapter%202/UVa%20-%2000978.cpp)
+- [x] [UVa 00978 - Lemmings Battle](Chapter%202/UVa%20-%20978.cpp)
 - [x] [UVa 10954 - Add All](Chapter%202/UVa%20-%2010954.cpp)
-- [x] [UVa 00599 - The Forrest for the Trees](Chapter%202/UVa%20-%2000599.cpp)
-- [x] [UVa 00793 - Network Connections](Chapter%202/UVa%20-%2000793.cpp)
+- [x] [UVa 00599 - The Forrest for the Trees](Chapter%202/UVa%20-%20599.cpp)
+- [x] [UVa 00793 - Network Connections](Chapter%202/UVa%20-%20793.cpp)
 - [x] [UVa 12532 - Interval Product](Chapter%202/UVa%20-%2012532.cpp)
 
 ### Chapter 3 - _Problem Solving Paradigms_
 
-- [x] [UVa 01237 - Expert Enough](Chapter%203/UVa%20-%2001237.cpp)
+- [x] [UVa 01237 - Expert Enough](Chapter%203/UVa%20-%201237.cpp)
 - [x] [UVa 10487 - Closest Sums](Chapter%203/UVa%20-%2010487.cpp)
-- [x] [UVa 00441 - Lotto](Chapter%203/UVa%20-%2000441.cpp)
+- [x] [UVa 00441 - Lotto](Chapter%203/UVa%20-%20441.cpp)
 - [x] [UVa 10660 - Citizen attention](Chapter%203/UVa%20-%2010660.cpp)***
 - [ ] UVa 01047 - Zones 
 - [x] [UVa 12455 - Bars](Chapter%203/UVa%20-%2012455.cpp)
 - [x] [UVa 11085 - Back to the 8-Queens](Chapter%203/UVa%20-%2011085.cpp)
-- [x] [UVa 00524 - Prime Ring Problem](Chapter%203/UVa%20-%2000524.cpp)
-- [x] [UVa 01262 - Password](Chapter%203/UVa%20-%2001262.cpp)
+- [x] [UVa 00524 - Prime Ring Problem](Chapter%203/UVa%20-%20524.cpp)
+- [x] [UVa 01262 - Password](Chapter%203/UVa%20-%201262.cpp)
 - [x] [UVa 12192 - Grapevine](Chapter%203/UVa%20-%2012192.cpp)
 - [x] [UVa 12032 - The Monkey](Chapter%203/UVa%20-%2012032.cpp)
-- [x] [UVa 00183 - Bit Maps](Chapter%203/UVa%20-%2000183.cpp)***
+- [x] [UVa 00183 - Bit Maps](Chapter%203/UVa%20-%20183.cpp)***
 - [x] [UVa 11389 - The Bus Driver Problem](Chapter%203/UVa%20-%2011389.cpp)
 - [x] [UVa 12210 - A Match Making Problem](Chapter%203/UVa%20-%2012210.cpp)
 - [x] [UVa 11157 - Dynamic Frog](Chapter%203/UVa%20-%2011157.cpp)
 - [x] [UVa 10755 - Garbage Heap](Chapter%203/UVa%20-%2010755.cpp)
 - [x] [UVa 11951 - Area](Chapter%203/UVa%20-%2011951.cpp)  	
-- [x] [UVa 00481 - What Goes Up?](Chapter%203/UVa%20-%2000481.cpp)
+- [x] [UVa 00481 - What Goes Up?](Chapter%203/UVa%20-%20481.cpp)
 - [x] [UVa 10819 - Trouble of 13-Dots](Chapter%203/UVa%20-%2010819.cpp)
 - [ ] UVa 10496 - Collecting Beepers
-- [x] [UVa 00357 - Let Me Count The Ways](Chapter%203/UVa%20-%2000357.cpp)
+- [x] [UVa 00357 - Let Me Count The Ways](Chapter%203/UVa%20-%20357.cpp)
 - [x] [UVa 10337 - Flight Planner](Chapter%203/UVa%20-%2010337.cpp)***
 
 ### Chapter 4 - _Graph_
 
 - [x] [UVa 12442 - Forwarding Emails](Chapter%204/UVa%20-%2012442.cpp)
-- [x] [UVa 01103 - Ancient Messages](Chapter%204/UVa%20-%2001103.cpp)***
+- [x] [UVa 01103 - Ancient Messages](Chapter%204/UVa%20-%201103.cpp)***
 - [x] [UVa 10305 - Ordering Tasks](Chapter%204/UVa%20-%2010305.cpp)
 - [x] [UVa 10004 - Bicoloring](Chapter%204/UVa%20-%2010004.cpp)
 - [ ] UVa 10765 - Doves and Bombs 
-- [x] [UVa 00247 - Calling Circles](Chapter%204/UVa%20-%2000247.cpp)
-- [ ] UVa 11747 - Heavy Cycle Edges 
-- [ ] UVa 10369 - Arctic Networks  
-- [ ] UVa 00924 - Spreading the News 
+- [x] [UVa 00247 - Calling Circles](Chapter%204/UVa%20-%20247.cpp)
+- [x] [UVa 11747 - Heavy Cycle Edges](Chapter%204/UVa%20-%2011747.cpp)
+- [x] [UVa 10369 - Arctic Networks](Chapter%204/UVa%20-%2010369.cpp)
+- [x] [UVa 00924 - Spreading the News](Chapter%204/UVa%20-%20924.cpp)
 - [ ] UVa 00314 - Robot 
-- [ ] UVa 01112 - Mice and Maze  
-- [ ] UVa 11492 - Babel  
-- [ ] UVa 10557 - XYZZY 
-- [ ] UVa 10171 - Meeting Prof. Miguel 
-- [ ] UVa 01056 - Degrees of Separation  
+- [x] [UVa 01112 - Mice and Maze](Chapter%204/UVa%20-%201112.cpp)
+- [x] [UVa 11492 - Babel](Chapter%204/UVa%20-%2011492.cpp)
+- [x] [UVa 10557 - XYZZY](Chapter%204/UVa%20-%2010557.cpp)***
+- [x] [UVa 10171 - Meeting Prof. Miguel](Chapter%204/UVa%20-%2010171.cpp)
+- [x] [UVa 01056 - Degrees of Separation](Chapter%204/UVa%20-%201056.cpp)
 - [ ] UVa 11167 - Monkeys in the Emei 
 - [ ] UVa 11380 - Down Went The Titanic 
 - [ ] UVa 10350 - Liftless Eme  
