@@ -22,7 +22,7 @@ Solutions for the homeworks
 - [x] [UVa 01237 - Expert Enough](Chapter3/UVa-01237.cpp)
 - [x] [UVa 10487 - Closest Sums](Chapter3/UVa-10487.cpp)  
 - [x] [UVa 00441 - Lotto](Chapter3/UVa-00441.cpp) 
-- [x] [UVa 10660 - Citizen attention](Chapter3/UVa-01047.cpp)
+- [x] [UVa 10660 - Citizen attention](Chapter3/UVa-10660.cpp)
 - [ ] UVa 01047 - Zones 
 - [ ] UVa 12455 - Bars
 - [ ] UVa 11085 - Back to the 8-Queens 
