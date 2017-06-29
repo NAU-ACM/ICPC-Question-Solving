@@ -24,8 +24,8 @@ Question with the asterisk (*) are not passed. Debugging in progress
 - [x] [UVa 00441 - Lotto](https://github.com/NAU-ACM/ICPC-Question-Solving/blob/master/Quyen/Chap%203/Uva%20441%20-%20Lotto.cpp) 
 - [ ] UVa 10660 - Citizen attention 
 - [ ] UVa 01047 - Zones 
-- [ ] UVa 12455 - Bars
-- [ ] UVa 11085 - Back to the 8-Queens 
+- [x] [UVa 12455 - Bars](https://github.com/NAU-ACM/ICPC-Question-Solving/blob/master/Quyen/Chap%203/UVa%2012455%20-%20Bars.cpp)
+- [x] [UVa 11085 - Back to the 8-Queens](https://github.com/NAU-ACM/ICPC-Question-Solving/blob/master/Quyen/Chap%203/Uva%2011085%20-%20Back%20to%20the%208%20Queen.cpp) 
 - [ ] UVa 00524 - Prime Ring Problem
 - [ ] UVa 01262 - Password 
 - [ ] UVa 12192 - Grapevine 
