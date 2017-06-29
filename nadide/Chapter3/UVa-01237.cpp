@@ -5,13 +5,13 @@ using namespace std;
 struct car{
 	int l,h;
 	string m;
-} d[10001];
+} d[10005];
 
 int main() {
 	int t; cin >> t;
 	while (t--) {
 		int n; cin >> n;
-		for (int i; i < n; i++)
+		for (int i=0; i < n; i++)
 			cin >> d[i].m >> d[i].l >> d[i].h;
 
 		int q; cin >> q;
@@ -33,5 +33,6 @@ int main() {
 			else
 				cout << d[maker].m << endl;
 		}
+		if(t) cout << endl;
 	}
 }

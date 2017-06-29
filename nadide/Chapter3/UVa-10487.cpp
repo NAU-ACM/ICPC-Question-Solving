@@ -12,7 +12,7 @@ int main() {
 	cin >> n;
 	while (n) {
 		cout << "Case "<< x++ <<":" << endl;
-		for (int i; i < n; i++)
+		for (int i=0; i < n; i++)
 			cin >> a[i];
 		//sort(a, a+n);
 		cin >> m;
