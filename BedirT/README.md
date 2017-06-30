@@ -62,7 +62,7 @@ Solutions for the homeworks. __(*** - Looks correct but not passed)__
 - [ ] UVa 11167 - Monkeys in the Emei 
 - [ ] UVa 11380 - Down Went The Titanic 
 - [x] [UVa 10350 - Liftless Eme](Chapter%204/UVa%20-%2010350.cpp)
-- [ ] UVa 00988 - Many paths, one 	
+- [x] [UVa 00988 - Many paths, one](Chapter%204/UVa%20-%20988.cpp)
 - [ ] UVa 11487 - Gathering Food 
 - [ ] UVa 10805 - Cockroach Escape 		
 - [ ] UVa 10596  - Morning Walk 
