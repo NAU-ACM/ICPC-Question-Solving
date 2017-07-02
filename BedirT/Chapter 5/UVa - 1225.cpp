@@ -1,6 +1,5 @@
 #include <iostream>
 #include <cstring>
-#include <fstream>
 using namespace std;
 int dig[10];
 
@@ -13,7 +12,6 @@ void addDigits(int x){
 
 int main (){
 	int t, n;
-	// freopen("out.txt", "w", stdout);
 	cin >> t;
 	while(t--){
 		memset(dig, 0, sizeof dig);
@@ -23,5 +21,4 @@ int main (){
 		for(int i = 0; i < 10; ++i)
 			cout << dig[i] << (i == 9 ? "\n" : " ");
 	}
-	// fclose(stdout);
 }
