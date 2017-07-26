@@ -81,6 +81,7 @@ Here we have the sources that helped us solving the question specified.
 - UVa 11723 - Numbering Road	
 - UVa 01225 - Digit Counting 
 - UVa 11254 - Consecutive - Integers 
+  - [Partitioning a number into consecutive integers](https://mathematica.stackexchange.com/questions/134252/partitioning-a-number-into-consecutive-integers)
 - UVa 10751 - Chessboard 
 - UVa 11231 - Black and White Painting 
 - UVa 10233 - Dermuba Triangle 

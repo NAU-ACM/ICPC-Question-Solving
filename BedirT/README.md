@@ -61,11 +61,11 @@ Solutions for the homeworks. __(*** - Looks correct but not passed)__
 - [x] [UVa 01056 - Degrees of Separation](Chapter%204/UVa%20-%201056.cpp)
 - [ ] UVa 11167 - Monkeys in the Emei 
 - [ ] UVa 11380 - Down Went The Titanic 
-- [ ] UVa 10350 - Liftless Eme  
-- [ ] UVa 00988 - Many paths, one 	
-- [ ] UVa 11487 - Gathering Food 
+- [x] [UVa 10350 - Liftless Eme](Chapter%204/UVa%20-%2010350.cpp)
+- [x] [UVa 00988 - Many paths, one](Chapter%204/UVa%20-%20988.cpp)
+- [ ] [UVa 11487 - Gathering Food](Chapter%204/UVa%20-%2011487.cpp) - __Not finished__
 - [ ] UVa 10805 - Cockroach Escape 		
-- [ ] UVa 10596  - Morning Walk 
+- [ ] UVa 10596 - Morning Walk 
 - [ ] UVa 11159 - Factors and Multiples
 
 ### Chapter 5 - _Mathematics_
