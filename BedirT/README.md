@@ -70,16 +70,16 @@ Solutions for the homeworks. __(*** - Looks correct but not passed)__
 
 ### Chapter 5 - _Mathematics_
 
-- [ ] UVa 11723 - Numbering Road	
-- [ ] UVa 01225 - Digit Counting 
-- [ ] UVa 11254 - Consecutive - [ ] Integers 
-- [ ] UVa 10751 - Chessboard 
-- [ ] UVa 11231 - Black and White Painting 
+- [x] [UVa 11723 - Numbering Road](Chapter%205/UVa%20-%2011723.cpp)
+- [x] [UVa 01225 - Digit Counting ](Chapter%205/UVa%20-%201225.cpp)
+- [x] [UVa 11254 - Consecutive Integers](Chapter%205/UVa%20-%2011254.cpp)
+- [x] [UVa 10751 - Chessboard](Chapter%205/UVa%20-%2010751.cpp)
+- [x] [UVa 11231 - Black and White Painting](Chapter%205/UVa%20-%2011231.cpp)
 - [ ] UVa 10233 - Dermuba Triangle 
-- [ ] UVa 00443 - Humble Numbers  
-- [ ] UVa 00701 - Archaelogist’s Dilemma 
-- [ ] UVa 10586 - Polynomial Remains
-- [ ] UVa 00377 - Cowculations 
+- [x] [UVa 00443 - Humble Numbers](Chapter%205/UVa%20-%20443.cpp)
+- [x] [UVa 00701 - Archaelogist’s Dilemma](Chapter%205/UVa%20-%20701.cpp)
+- [x] [UVa 10586 - Polynomial Remains](Chapter%205/UVa%20-%2010586.cpp)
+- [x] [UVa 00377 - Cowculations](Chapter%205/UVa%20-%20377.cpp)
 - [ ] UVa 12036 - Stable Grid  
 - [ ] UVa 11879 - Multiple of 17 
 - [ ] UVa 00389 - Basically Speaking 
