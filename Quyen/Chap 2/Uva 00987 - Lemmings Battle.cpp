@@ -1,10 +1,19 @@
-// 1 small problem: the output is not separate for each alive warrior.
 #include <iostream>
 #include <vector>
 #include<algorithm>
+#include <fstream>
+#define fin cin
+#define fout cout
 using namespace std;
 int main (void)
 {
+/*	ifstream fin;
+
+	ofstream fout;
+
+	fin.open("input.txt");
+
+	fout.open("output.txt");*/
 	int n;
 	cin>>n;
 	while (n--)
@@ -57,24 +66,32 @@ int main (void)
 				//	cout<<Green[x]<<" ";
 			//		cout<<Blue[x]<<endl;
 			}//end of one round
-				
-				
-		for (int z = 0; z <sg; z++)
+		//	cout<<Green[0]<<" "<<Green[1]<<" "<< Green[2] <<" " <<Green[3]<<" "<<Green[4]<<endl;
+		//	cout<<Blue[0]<<" "<<Blue[1]<<" "<< Blue[2] <<" " <<Blue[3]<<" "<<Blue[4]<<endl;
+		//	cout<<endl;
+		
+		for (int z = 0; z < sg; z++)
+		{
+	//		cout<<"z 1: "<<z<<endl;
 			if (Green[z] == 0)
-				{
+				{	
+					
 					Green.erase(Green.begin() + z);
-					z = 0;
+			//		cout<<"z: "<<z<<endl;
+					z--;
+	//		cout<<"z: "<<z<<endl;		
 					sg--;
-			}
-			
+				}
+	}
+//		cout<<Green[0]<<" "<<Green[1]<<" "<< Green[2] <<" " <<Green[3]<<" "<<Green[4]<<endl;
 		for (int z = 0; z < sb; z++)
 			if(Blue[z] == 0)
 				{
 					Blue.erase(Blue.begin() + z);
-					z = 0;
+					z--;
 					sb--;
 				}
-		
+//	cout<<Blue[0]<<" "<<Blue[1]<<" "<< Blue[2] <<" " <<Blue[3]<<" "<<Blue[4]<<endl;
 //		cout << Green[0] << Green[1] << " ";		
 //		cout << Blue[0]<< Blue[1] << " ";
 		if (Blue.size() == 0 || Green.size() == 0)
@@ -93,7 +110,7 @@ int main (void)
 				cout<<"Green wins"<<endl;
 				for (int y = 0; y<sg;y++)
 					if (Green[y] != 0)
-						cout<<Green[y]<<" ";
+						cout<<Green[y]<<" "<<endl;
 			
 			
 		}
@@ -104,12 +121,14 @@ int main (void)
 					if(Blue[y] != 0)
 						cout<<Blue[y]<<" ";
 		}
-		
+		if(n) cout<<endl;
 	}
 //		cout <<Green.size()<<endl;
 //		cout <<Blue.size()<<endl;
+//fin.close();
+//fout.close();
 return 0;
 		
-	}
+}
 
 

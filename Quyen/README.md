@@ -28,8 +28,8 @@ Question with the asterisk (*) are not passed. Debugging in progress
 - [x] [UVa 11085 - Back to the 8-Queens](https://github.com/NAU-ACM/ICPC-Question-Solving/blob/master/Quyen/Chap%203/Uva%2011085%20-%20Back%20to%20the%208%20Queen.cpp) 
 - [ ] UVa 00524 - Prime Ring Problem
 - [ ] UVa 01262 - Password 
-- [ ] UVa 12192 - Grapevine 
-- [ ] UVa 12032 - The Monkey  
+- [x] [UVa 12192 - Grapevine](https://github.com/NAU-ACM/ICPC-Question-Solving/blob/master/Quyen/Chap%203/Uva%2012192%20-%20Grapevine.cpp)
+- [x] [UVa 12032 - The Monkey](https://github.com/NAU-ACM/ICPC-Question-Solving/blob/master/Quyen/Chap%203/Uva%2012032%20-%20The%20Monkey.cpp)  
 - [ ] UVa 00183 - Bit Maps  
 - [ ] UVa 11389 - The Bus Driver Problem 
 - [ ] UVa 12210 - A Match Making Problem  					
