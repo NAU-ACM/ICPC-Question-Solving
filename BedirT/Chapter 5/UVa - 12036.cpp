@@ -1,23 +1,27 @@
 #include <iostream>
 #include <cstring>
 using namespace std;
-
 int main () {
-
-	int t, n, a, ct = 1;
-	int counter[105];
-	cin >> t;
-	while(t--){
+	int T, n, a, ar[101];
+	cin >> T;
+	int ct = 1;
+	while(T--){
 		cin >> n;
-		memset(counter, 0, sizeof counter);
 		bool ok = true;
-		for(int i = 0; i < n; ++i){
+		memset(ar, 0 , sizeof(ar));
+		for(int i = 0; i < n ; ++i){
 			for(int j = 0; j < n; ++j){
 				cin >> a;
-				if(++counter[a] > n)
-					ok = false;
+				ar[a]++;		
 			}
 		}
-		cout << "Case " << ct++ << (ok ? ": yes\n" : ": no\n");
+		for(int i = 0; i < n; ++i){
+			if(ar[i] > n){
+				ok = false;
+				break;
+			}
+		}
+		cout << "Case " << ct++ << ": " << (ok ? "yes\n" : "no\n"); 
 	}
+
 }
