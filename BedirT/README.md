@@ -80,9 +80,9 @@ Solutions for the homeworks. __(*** - Looks correct but not passed)__
 - [x] [UVa 00701 - Archaelogist’s Dilemma](Chapter%205/UVa%20-%20701.cpp)
 - [x] [UVa 10586 - Polynomial Remains](Chapter%205/UVa%20-%2010586.cpp)
 - [x] [UVa 00377 - Cowculations](Chapter%205/UVa%20-%20377.cpp)
-- [ ] UVa 12036 - Stable Grid  
-- [ ] UVa 11879 - Multiple of 17 
-- [ ] UVa 00389 - Basically Speaking 
+- [x] [UVa 12036 - Stable Grid](Chapter%205/UVa%20-%2012036.cpp)
+- [x] [UVa 11879 - Multiple of 17](Chapter%205/UVa%20-%2011879.cpp)
+- [x] [UVa 00389 - Basically Speaking](Chapter%205/UVa%20-%20389.cpp)
 - [ ] UVa 01210 - Sum of Consecutive  
 - [ ] UVa 01230 - MODEX 
 - [ ] UVa 00763 - Fibinary Numbers  
