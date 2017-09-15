@@ -83,7 +83,7 @@ Solutions for the homeworks. __(*** - Looks correct but not passed)__
 - [x] [UVa 12036 - Stable Grid](Chapter%205/UVa%20-%2012036.cpp)
 - [x] [UVa 11879 - Multiple of 17](Chapter%205/UVa%20-%2011879.cpp)
 - [x] [UVa 00389 - Basically Speaking](Chapter%205/UVa%20-%20389.cpp)
-- [ ] UVa 01210 - Sum of Consecutive  
+- [x] [UVa 01210 - Sum of Consecutive](Chapter%205/UVa%20-%201210.cpp)
 - [ ] UVa 01230 - MODEX 
 - [ ] UVa 00763 - Fibinary Numbers  
 - [ ] UVa 10541 - Stripe 
