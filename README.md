@@ -174,3 +174,7 @@ Here we have the sources that helped us solving the question specified.
 - UVa 00344 - Roman Digititis 
 - UVa 11462 - Age Sort
 - UVa 10017 - The Never Ending
+
+## Contests
+
+- [September 16 - Kattis open contest](Contests%20/September_16%20/)
