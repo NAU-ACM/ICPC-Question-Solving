@@ -177,4 +177,4 @@ Here we have the sources that helped us solving the question specified.
 
 ## Contests
 
-- [September 16 - Kattis open contest](Contests%20/September_16%20/)
+- [September 16 - Kattis open contest](Contests/September_16)
